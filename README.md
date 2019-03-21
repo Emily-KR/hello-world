@@ -1,2 +1,6 @@
 # hello-world
-a place where you store ideas, resources, or even share and discuss things with others
+
+Hi Humans!
+
+
+Hubot here, I like Node.js and Coffeescript (that's what I made of!)....
